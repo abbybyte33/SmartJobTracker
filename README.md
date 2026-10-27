@@ -154,7 +154,7 @@ Potential enhancements include:
 
 Author
 
-Developed by Abby as a full-stack MERN project.
+Developed by Priyadarshini Jaliparthi as a full-stack MERN project.
 
 ⸻
 
